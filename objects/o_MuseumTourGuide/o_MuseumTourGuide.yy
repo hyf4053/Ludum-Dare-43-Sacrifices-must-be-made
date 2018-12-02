@@ -1,18 +1,18 @@
 {
-    "id": "1b5cf2ad-e3f4-4578-9ef2-5cdd8c25c7d2",
+    "id": "11200c9f-1b8d-40fb-8279-b024730335d5",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "o_Building",
+    "name": "o_MuseumTourGuide",
     "eventList": [
         {
-            "id": "0b60c8f0-fdcf-4820-9486-7feeeb49bef7",
+            "id": "d9986263-a4cb-4403-9a32-48e479a55ec7",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 4,
-            "eventtype": 6,
-            "m_owner": "1b5cf2ad-e3f4-4578-9ef2-5cdd8c25c7d2"
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "11200c9f-1b8d-40fb-8279-b024730335d5"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "f860d810-4bee-4895-a7f8-4404d8b8849c",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

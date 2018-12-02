@@ -9,7 +9,7 @@ create_textevent_SW(
 	-1,
 	[0,1,0],
 	[0,[2,3],0],
-	-1,
+	[0,0,[s_JumpToLevel2],[s_JumpToLevel2]],
 	-1,
 	-1,
 	-1
