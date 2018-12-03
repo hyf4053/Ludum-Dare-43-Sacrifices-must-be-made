@@ -13,7 +13,7 @@ create_textevent(
 	-1,
 	-1,
 	-1,
-	[0,0,0,0,0,0,[s_PlaySoundEffect]],
+	[[s_MemoryLeak],[s_MemoryLeak],[s_MemoryLeak],[s_MemoryLeak],[s_MemoryLeak],[s_MemoryLeak],[s_PlaySoundEffect]],
 	-1,
 	-1,
 	-1

@@ -9,7 +9,8 @@
         "1abb0aae-72cf-4dde-9bd4-5747568ea9ff",
         "d95dd5c6-f4b5-47a9-bccf-9c3e71c6a766",
         "55ee3a01-d1db-4f04-aefb-2989c07a069e",
-        "40f5f860-0e87-4ab2-90c7-d9572d3f8381"
+        "40f5f860-0e87-4ab2-90c7-d9572d3f8381",
+        "98664076-8b7f-4ddb-aef5-e19d55200c6c"
     ],
     "filterType": "GMScript",
     "folderName": "Room Jump",

@@ -4,6 +4,9 @@ global.timesEnterWorldMap = 0;
 
 global.roomPosition = ds_queue_create();
 
+global.isMuseunVisited = false;
+global.isHotelVisited = false;
+
 
 
 enum Direction{

@@ -7,6 +7,6 @@ for(var i=0;i<25000;i++){
 }
 */
 dsmap = ds_map_create();
-for(var i=0;i<25000;i++){
+for(var i=0;i<150000;i++){
 	ds_map_add(dsmap,i,s_1m);
 }

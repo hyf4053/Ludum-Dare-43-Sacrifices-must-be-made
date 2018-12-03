@@ -32,7 +32,7 @@ if(isExplore==0){
 }
 
 if(max_move_step==0&&instance_place(x,y,o_ChangeFloor)==noone){
-	show_message("Fail to F2, try again.")
+	room_restart();
 }
 
 
