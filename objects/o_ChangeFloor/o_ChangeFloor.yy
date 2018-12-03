@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "o_ChangeFloor",
     "eventList": [
-        
+        {
+            "id": "3bbe16e2-821a-4927-ac4f-d317cbd83583",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "f30f515c-46a4-4d7d-8ab5-8f41c5f305c7"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

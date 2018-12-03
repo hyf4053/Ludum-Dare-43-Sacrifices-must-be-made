@@ -3,4 +3,5 @@ canUp = 1;
 canDown = 1;
 canLeft = 0;
 
-treasure = noone;
+treasure = "Necronomicon";
+isSecondFloor = false;

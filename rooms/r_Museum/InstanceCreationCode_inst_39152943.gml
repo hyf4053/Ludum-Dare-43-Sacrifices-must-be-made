@@ -3,3 +3,4 @@ canUp = 0;
 canDown = 0;
 canLeft = 1;
 treasure = "Revival";
+isSecondFloor = false;

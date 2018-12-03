@@ -9,6 +9,8 @@ create_textevent(
 	"But we need to go quick!",
 	"I think the system of AI is not that robust as before, maybe we can find some protocol vulnerability.",
 	"Here, try this program. Maybe it can help us fix the route.",
+	"BTW, did you see the acient book in front of you? Maybe is helpful!",
+	"Necronomicon obtained!",
 	"(Use WASD to control)"],
 	"None",
 	-1,
@@ -20,3 +22,4 @@ create_textevent(
 	-1,
 	-1
 )
+

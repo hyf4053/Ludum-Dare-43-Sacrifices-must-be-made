@@ -4,3 +4,4 @@ canDown = 1;
 canLeft = 0;
 
 treasure = "Banished";
+isSecondFloor = false;

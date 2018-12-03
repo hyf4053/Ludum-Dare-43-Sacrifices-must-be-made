@@ -9,7 +9,13 @@ canDown = false;
 canRight = false;
 canLeft = false;
 
-treasure = noone;
+treasure = "None";
 
 
-max_move_step = 10;
+isExplore = 0;
+indexOfThings = 1;
+
+
+
+max_move_step = 20;
+global.isSecondFloor = false;
