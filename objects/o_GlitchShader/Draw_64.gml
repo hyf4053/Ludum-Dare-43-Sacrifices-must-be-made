@@ -1,10 +1,10 @@
 //activating the shader
 
-//if (os_device == os_macosx){
-//	shader_set(shdBktGlitchMac);
-//}else{
+if (os_device == os_macosx){
+	shader_set(shdBktGlitchMac);
+}else{
 shader_set(shdBktGlitch);
-//}
+}
 
 //setting the resolution
 BktGlitch_set_resolution_of_application_surface();
