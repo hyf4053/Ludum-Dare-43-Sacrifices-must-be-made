@@ -671,14 +671,6 @@
             }
         },
         {
-            "Key": "2d5bccb9-652d-460d-b91f-92bac9d984c3",
-            "Value": {
-                "id": "397d69c2-873d-42ce-8bd9-e3fa0c482817",
-                "resourcePath": "rooms\\rm_demo\\rm_demo.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "2d66650f-6e1d-4c3d-bdf4-028cc4432788",
             "Value": {
                 "id": "cd055c53-1b32-44ee-bb47-95a0823505ce",
@@ -1052,14 +1044,6 @@
                 "id": "5595fb52-316c-4732-8275-ef1cbaa2be1e",
                 "resourcePath": "views\\443903b7-5434-4352-b2bb-13cb0cb114eb.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "44b27690-ae19-4f74-8d21-887e15d05c8c",
-            "Value": {
-                "id": "9ab27ff1-f8d4-4951-8270-938fb724e0f8",
-                "resourcePath": "scripts\\draw_text_shadow\\draw_text_shadow.yy",
-                "resourceType": "GMScript"
             }
         },
         {
@@ -1483,14 +1467,6 @@
             "Value": {
                 "id": "38e08ec0-77d6-491d-968a-e5d3ee017932",
                 "resourcePath": "objects\\o_DrawInventory\\o_DrawInventory.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "6d317888-089c-4558-a874-0c693015c73f",
-            "Value": {
-                "id": "24777986-f879-43f3-a248-cc430be0d267",
-                "resourcePath": "objects\\obj_taskbar_control\\obj_taskbar_control.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1948,14 +1924,6 @@
                 "id": "aac871f1-c374-48ec-baa0-8582041d7526",
                 "resourcePath": "scripts\\BktGlitch_set_jumble_shift\\BktGlitch_set_jumble_shift.yy",
                 "resourceType": "GMScript"
-            }
-        },
-        {
-            "Key": "92845819-146a-4aea-b2d4-10b9f76f897a",
-            "Value": {
-                "id": "985462f5-e932-4521-a749-0bddc9699d95",
-                "resourcePath": "extensions\\Taskbar\\Taskbar.yy",
-                "resourceType": "GMExtension"
             }
         },
         {
@@ -3350,7 +3318,6 @@
         "02a93034-8f6e-4718-a90d-ef3a3edfc5ae",
         "04b6dbb0-564e-4cc4-a2f7-4cf73cc5209d",
         "f1f55f85-d639-4690-bd86-a9a122b86726",
-        "44b27690-ae19-4f74-8d21-887e15d05c8c",
         "00849aea-573d-4471-aac3-ecfcee12492f",
         "4d7276ac-2c3d-4ec8-89ff-15319d0c6541",
         "22e58664-f81e-4a3d-874f-56e7b19ecde1",
